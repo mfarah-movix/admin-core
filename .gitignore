@@ -6,3 +6,7 @@
 *.ear
 scheduling-admin.iml
 .idea
+
+.DS_Store
+AdminSchedulingEJB/.settings/org.eclipse.core.resources.prefs
+*/build/

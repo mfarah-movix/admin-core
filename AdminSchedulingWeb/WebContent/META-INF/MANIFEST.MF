@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: 
+Dependencies: movixla.shared, com.google.guava, movixla.services.scheduling, org.codehaus.jackson.jackson-core-asl, org.codehaus.jackson.jackson-mapper-asl, org.jboss.resteasy.resteasy-jackson-provider, org.jboss.resteasy.resteasy-jaxrs, org.codehaus.jackson.jackson-jaxrs

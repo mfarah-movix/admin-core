@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ejbModule"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="lib/ldap-1.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/movix-dev-shared-3.9.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/movix-service-sp-client-0.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/guava-14.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/movix-service-shared-0.9.28.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javax.persistence.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/srv/produccion/jboss-eap-6.0/modules/org/slf4j/main/slf4j-api-1.6.1-redhat-1.jar"/>
+	<classpathentry kind="lib" path="/srv/produccion/jboss-eap-6.0/modules/org/slf4j/impl/main/slf4j-jboss-logmanager-1.0.0.GA-redhat-1.jar"/>
+	<classpathentry kind="lib" path="/srv/produccion/jboss-eap-6.0/modules/movixla/services/scheduling/main/movix-service-scheduling-client-0.3.5.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
